@@ -16,5 +16,4 @@ void main() {
 
   print(
       connectingCharacters == text.length ? "Palindrome" : "NOT a palindrome");
-  ;
 }
